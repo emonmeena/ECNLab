@@ -28,4 +28,4 @@ axx[0, 1].set_title('Phase for part 1')
 for axs in axx.flat[:2]:
     axs.set(xlabel='t')
 # showing plot
-plt.show()    
+plt.show()
